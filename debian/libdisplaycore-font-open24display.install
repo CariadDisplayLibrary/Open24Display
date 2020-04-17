@@ -1,2 +1,4 @@
-Open24Display.cpp libraries/DisplayCore/Open24Display
-Open24Display.h libraries/DisplayCore/Open24Display
+library.json libraries/DisplayCore/Open24Display
+library.properties libraries/DisplayCore/Open24Display
+README.md libraries/DisplayCore/Open24Display
+src libraries/DisplayCore/Open24Display
