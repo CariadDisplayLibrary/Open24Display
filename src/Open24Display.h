@@ -1,7 +1,7 @@
 #ifndef _FONTS_OPEN24DISPLAY_H
 #define _FONTS_OPEN24DISPLAY_H
 
-#include <DisplayCore.h>
+#include <Cariad.h>
 
 namespace Fonts {
         extern const uint8_t Open24Display8[];
